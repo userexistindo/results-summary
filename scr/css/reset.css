@@ -1,0 +1,27 @@
+:root{
+--white-color: #ffffff;
+--pale-blue-color: #ebf1ff;
+--light-lavender-color: #c8c7ff;
+--dark-gray-blue-color: #303b5a;
+
+--light-red-color: hsl(0, 100%, 67%);
+--orangey-yellow-color: hsl(39, 100%, 56%);
+--green-teal-color: hsl(166, 100%, 37%);
+--cobalt-blue-color: hsl(234, 85%, 45%);
+
+/* Background Color */
+--linear-color: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+
+/* Circle */
+--linear-color-circle: linear-gradient( hsla(256, 72%, 46%), hsla(241, 72%, 46%, 0));
+
+font-family: "Hanken Grotesk", sans-serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
